@@ -16,20 +16,28 @@ Brick Breaker is a simple yet addictive game where your objective is to break al
 - Classic sound effects and gameplay for a nostalgic experience.
 - Challenging gameplay that requires precision and strategy.
 
+  
+
 # Enter UserName
 
 
 ![Brick 1](https://github.com/IbrahimRao/Brick-Breaker/assets/66884608/81727d31-0f66-4710-b8ff-9a3c56bc03ce)
+
+
 
 # Start Up Menu
 
 
 ![Brick 2](https://github.com/IbrahimRao/Brick-Breaker/assets/66884608/f628d6c5-44cb-4d44-9f5c-4d5a86851ca9)
 
+
+
 # Instructions
 
 
 ![Instructions](https://github.com/IbrahimRao/Brick-Breaker/assets/66884608/3bb3b050-4b62-4e51-bbe8-cc5f4178c1d5)
+
+
 
 # Start Level 1
 
