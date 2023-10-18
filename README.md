@@ -1,5 +1,3 @@
-# Brick-Breaker
-
 # Brick Breaker Game in Assembly Language
 This repository contains a classic Brick Breaker game developed using Assembly language for DOSBox 86. If you're feeling nostalgic or want to explore the world of retro gaming, this is the perfect project for you.
 
